@@ -2,7 +2,7 @@ package com.hrms.steps;
 
 import org.junit.Assert;
 
-import com.hrms.pages.DashboardPageElements;
+import com.hrms.pages.DashboardPageElement;
 import com.hrms.pages.LoginPageElements;
 import com.hrms.pages.ReportsPageElements;
 import com.hrms.utils.CommonMethods;
